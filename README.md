@@ -17,6 +17,19 @@ Crafted and taught by **Shreya Malogi!** 🌐
 
 ---
 
+# Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Dependencies](#dependencies)
+- [How It Works](#how-it-works)
+- [Installation](#installation)
+- [Running the Script](#running-the-script)
+- [Contribution](#contribution)
+- [License](#license)
+
+
+
 # Introduction 
 
 🎤🔀 A Python Tkinter GUI app that delivers a fresh dose of random Kanye West quotes with just a click.
@@ -46,7 +59,7 @@ Crafted and taught by **Shreya Malogi!** 🌐
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/randomizer-kanye.git
+git clone https://github.com/shreyamalogi/Random-quotes-generator.git
 ```
 
 Ensure you have the necessary dependencies installed by running:
@@ -60,13 +73,13 @@ pip install requests
 Navigate to the project directory:
 
 ```bash
-cd randomizer-kanye
+cd Random-quotes-generator
 ```
 
 Execute the following command:
 
 ```bash
-python randomizer_kanye.py
+python main.py
 ```
 
 
