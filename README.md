@@ -1,6 +1,8 @@
 # Random Quotes Generator 🎤🔥
 
-The Kanye Quotes Generator app is made with simple UI in tkinter GUI which uses an kayne.rest api to generate random kanye quotes each time we refresh by clicking the kanye face button
+Welcome to the beginner-friendly project - "  Random Quotes Generator"
+
+Crafted and taught by **Shreya Malogi!** 🌐
 
 
 
@@ -15,20 +17,23 @@ The Kanye Quotes Generator app is made with simple UI in tkinter GUI which uses 
 
 ---
 
+# Introduction 
+
+🎤🔀 A Python Tkinter GUI app that delivers a fresh dose of random Kanye West quotes with just a click.
 
 
-## Features 🌟
+## Features 
 
-- Fetches random Kanye West quotes from [https://api.kanye.rest](https://api.kanye.rest).
+- Fetches random Kanye West quotes from 🌟 [https://api.kanye.rest](https://api.kanye.rest).
 - Displays the fetched quote on a visually appealing GUI.
 - User-friendly interface with a button to get a new quote.
 
-## Dependencies 🛠️
+## Dependencies 
 
 - [Tkinter](https://docs.python.org/3/library/tkinter.html): Python's standard GUI package.
 - [Requests](https://docs.python-requests.org/en/latest/): Used for making HTTP requests to the Kanye West quotes API.
 
-## How It Works 🔄
+## How It Works 
 
 1. The app initializes a Tkinter window with a canvas and a button.
 2. The canvas displays a background image and the current Kanye West quote.
@@ -36,30 +41,46 @@ The Kanye Quotes Generator app is made with simple UI in tkinter GUI which uses 
 4. The function makes an API call to [https://api.kanye.rest](https://api.kanye.rest) using the `requests` library.
 5. The received quote is then displayed on the canvas.
 
-## Usage 🚀
+## Installation 
 
-Before running the app, make sure you have the required dependencies installed. You can install them using:
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/randomizer-kanye.git
+```
+
+Ensure you have the necessary dependencies installed by running:
 
 ```bash
 pip install requests
 ```
 
-To run the app, execute the following command:
+## Running the Script 
+
+Navigate to the project directory:
 
 ```bash
-python kanye_says.py
+cd randomizer-kanye
 ```
 
-## Contribution ⭐📜✨
+Execute the following command:
 
-Feel the Kanye magic within you? Contribute to this rhythmic project and make it even more dynamic. Don't forget to Star the project! ⭐
+```bash
+python randomizer_kanye.py
+```
 
-## License 📜
 
-This project is licensed under the spell of the MIT License. Share the Kanye vibes responsibly!
+
+## Contribution 
+
+⭐📜✨ Feel the Kanye magic within you? Contribute to this rhythmic project and make it even more dynamic. Don't forget to Star the project! ⭐
+
+## License 
+
+📜 This project is licensed under the spell of the MIT License. Share the Kanye vibes responsibly!
 
 MIT License
 
-Copyright (c) 2021 Your Name
+Copyright (c) 2021 Shreya Malogi
 
 Stay Groovy! 🌍🎤
